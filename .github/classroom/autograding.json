@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Elution Order Tests",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=ElutionOrderTest test",
+      "input": "",
+      "expected_output": "",
+      "timeout": 10
+    }
+  ]
+}
